@@ -1,0 +1,5 @@
+D:\SOFT UNI\OOP Programming\Exam28thFeb\ConsoleApplication1\SrabskoUnleashed2\bin\Debug\SrabskoUnleashed2.exe.config
+D:\SOFT UNI\OOP Programming\Exam28thFeb\ConsoleApplication1\SrabskoUnleashed2\bin\Debug\SrabskoUnleashed2.exe
+D:\SOFT UNI\OOP Programming\Exam28thFeb\ConsoleApplication1\SrabskoUnleashed2\bin\Debug\SrabskoUnleashed2.pdb
+D:\SOFT UNI\OOP Programming\Exam28thFeb\ConsoleApplication1\SrabskoUnleashed2\obj\Debug\SrabskoUnleashed2.exe
+D:\SOFT UNI\OOP Programming\Exam28thFeb\ConsoleApplication1\SrabskoUnleashed2\obj\Debug\SrabskoUnleashed2.pdb

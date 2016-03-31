@@ -1,0 +1,6 @@
+D:\SOFT UNI\OOP Programming\Exam28thFeb\ConsoleApplication1\BasicMarkupLanguage\bin\Debug\BasicMarkupLanguage.exe.config
+D:\SOFT UNI\OOP Programming\Exam28thFeb\ConsoleApplication1\BasicMarkupLanguage\obj\Debug\BasicMarkupLanguage.csprojResolveAssemblyReference.cache
+D:\SOFT UNI\OOP Programming\Exam28thFeb\ConsoleApplication1\BasicMarkupLanguage\bin\Debug\BasicMarkupLanguage.exe
+D:\SOFT UNI\OOP Programming\Exam28thFeb\ConsoleApplication1\BasicMarkupLanguage\bin\Debug\BasicMarkupLanguage.pdb
+D:\SOFT UNI\OOP Programming\Exam28thFeb\ConsoleApplication1\BasicMarkupLanguage\obj\Debug\BasicMarkupLanguage.exe
+D:\SOFT UNI\OOP Programming\Exam28thFeb\ConsoleApplication1\BasicMarkupLanguage\obj\Debug\BasicMarkupLanguage.pdb
